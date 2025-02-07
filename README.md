@@ -78,13 +78,12 @@ Comprehensive plots were created to illustrate model performance:
 2. **Accuracy vs. Epochs**: Demonstrates improved training and validation accuracy over time.
 3. **Confusion Matrix**: Highlights correct and misclassified predictions for each class.
 
-# Diabetic Health Indicator
 Refer.png files for the below reports.
 ## Model Performance
-### Loss vs. Epochs
-### Accuracy vs. Epochs
-### Confusion Matrix
-### Classification Report MLP
+## Loss vs. Epochs
+## Accuracy vs. Epochs
+## Confusion Matrix
+## Classification Report MLP
 
 ---
 
