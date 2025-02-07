@@ -81,17 +81,15 @@ Comprehensive plots were created to illustrate model performance:
 # Diabetic Health Indicator
 
 ## Model Performance
-
+Refer images
 ### Loss vs. Epochs
-![Loss Curve](https://github.com/ka234388/Diabetic-Health-indicator/blob/main/images/Loss and Accuracy plots.PNG)
-
+Refer images
 ### Accuracy vs. Epochs
-![Accuracy Curve](images/accuracy_vs_epochs.png)
-
+Refer images
 ### Confusion Matrix
-![Confusion Matrix](https://user-images.githubusercontent.com/example.png)
-
-Classification Report MLP
+Refer images
+### Classification Report MLP
+Refer images
 ---
 
 ### How to Use the Model
