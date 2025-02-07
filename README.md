@@ -79,17 +79,13 @@ Comprehensive plots were created to illustrate model performance:
 3. **Confusion Matrix**: Highlights correct and misclassified predictions for each class.
 
 # Diabetic Health Indicator
-
+Refer.png files for the below reports.
 ## Model Performance
-Refer images
 ### Loss vs. Epochs
-Refer images
 ### Accuracy vs. Epochs
-Refer images
 ### Confusion Matrix
-Refer images
 ### Classification Report MLP
-Refer images
+
 ---
 
 ### How to Use the Model
