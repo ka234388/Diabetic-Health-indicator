@@ -84,4 +84,12 @@ Comprehensive plots were created to illustrate model performance:
 1. Clone this repository:
    ```sh
    git clone https://github.com/ka234388/Diabetic-Health-indicator.git
+   ## Setup and Usage Instructions
+
+### **Requirements**
+- This project contains a **Jupyter Notebook (`.ipynb` file)**.
+- Ensure that Python is installed with the correct version.
+- Install dependencies using:
+  ```sh
+  pip install -r requirements.txt
 
