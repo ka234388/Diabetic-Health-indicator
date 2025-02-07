@@ -83,7 +83,7 @@ Comprehensive plots were created to illustrate model performance:
 ## Model Performance
 
 ### Loss vs. Epochs
-![Loss Curve](https://github.com/ka234388/Diabetic-Health-indicator/blob/main/images/loss_vs_epochs.png)
+![Loss Curve](https://github.com/ka234388/Diabetic-Health-indicator/blob/main/images/Loss and Accuracy plots.PNG)
 
 ### Accuracy vs. Epochs
 ![Accuracy Curve](images/accuracy_vs_epochs.png)
